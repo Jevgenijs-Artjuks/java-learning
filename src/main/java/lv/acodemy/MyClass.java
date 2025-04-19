@@ -53,7 +53,6 @@ public class MyClass {
 
         // String
         String myFullName = "Jevgenijs Artjuks"; // immutable
-        String mfn = new String(original "Jevgenijs Artjuks");
 
 
 
