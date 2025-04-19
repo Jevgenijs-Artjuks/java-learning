@@ -115,7 +115,13 @@ public class SecondLesson {
 
         System.out.println("Guessed!");
 
-        //tablica umnozhenija na 5;
+        //while: chisla ot 10 do 1;
+        int q = 10;
+        while (q >= 1) {
+            System.out.print(q + " ");
+            q--;
+        }
+        System.out.println(" ");
 
 
 
@@ -126,7 +132,12 @@ public class SecondLesson {
         }
         System.out.println("Summa:" + summa);
 
-        //While: chisla ot 10 do 1;
+        //tablica umnozhenija na 5;
+        int a = 1;
+        while(a <= 10) {
+            System.out.println("5 x " + a + " = " + (5 * a ));
+            a++;
+        }
 
 
 
