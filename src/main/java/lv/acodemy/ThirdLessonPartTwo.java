@@ -8,7 +8,7 @@ public class ThirdLessonPartTwo {
         
         System.out.println(add(20, 10));
 
-        greet(name: "Jevgenijs");
+        greet("Jevgenijs");
 
         int add = add(10, 5, 10);
         System.out.println(add);
